@@ -14,7 +14,7 @@ Beijing Jiaotong Open Hardware Class.
 
 李煜华          17211392@bjtu.edu.cn
 
-### License
+## License
 Copyright (c) 2019 FengodChen
 
 Licensed under the MIT License.
