@@ -16,4 +16,5 @@ Beijing Jiaotong Open Hardware Class.
 
 ### License
 Copyright (c) 2019 FengodChen
+
 Licensed under the MIT License.
