@@ -12,8 +12,8 @@
   * 
   * based on Tom Igoe's example
   * by:
-  * LiaoChen 17211401@bjtu.edu.cm
-  * LiYuHua 
+  * LiaoChen 17211401@bjtu.edu.cn
+  * LiYuHua 17211392@bjtu.edu.cn
   */
 #include <SoftwareSerial.h>
 
